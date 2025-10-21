@@ -28,6 +28,6 @@ Breaking Bad is widely regarded as one of the **greatest television series of al
 1. 16 Primetime Emmy Awards
 2. 2 Golden Globe Awards
 3. 2 Peabody Awards
-## Spin-offs and Sequel
+## 5. Spin-offs and Sequel
 - ***Better Call Saul***: A prequel series focusing on the evolution of the lawyer Saul Goodman (Jimmy McGill).
 - ***El Camino: A Breaking Bad Movie***: A sequel film following Jesse Pinkman's life immediately after the events of the series finale.
